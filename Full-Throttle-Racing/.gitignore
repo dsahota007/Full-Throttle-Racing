@@ -1,0 +1,24 @@
+# Ignore Unity auto-generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+Packages/
+.DS_Store
+
+# Ignore Visual Studio & C# files
+.vs/
+*.csproj
+*.sln
+*.suo
+*.vsconfig
+
+# Ignore Large Files
+*.psd
+*.fbx
+*.mp4
+*.zip
+*.exe
